@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá 👋
 
-<!--
-**belarminooO/belarminooO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chamo-me Belarmino, recém-formado em Engenharia Informática e Multimédia pelo ISEL, atualmente a frequentar o Mestrado na mesma área.
 
-Here are some ideas to get you started:
+Estou a desenvolver alguns projetos pessoais, com o apoio de um curso que adquiri para me focar em Desenvolvimento Web Full Stack, o ramo que quero seguir na minha carreira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neste momento, procuro oportunidades profissionais que me permitam colocar em prática o conhecimento adquirido e contribuir para projetos reais. Valorizo a aprendizagem contínua, o trabalho em equipa e a proatividade na resolução de problemas.
+
+Estou disponível para expandir a minha rede de contactos, trocar conhecimentos e explorar colaborações que me permitam dar os primeiros passos na minha carreira como Engenheiro.
+
+Ferramentas & Tecnologias
+JavaScript, TypeScript
+HTML, CSS
+React, Node.js
+PHP, Java, Kotlin, Python
+MySQL, Git
+Contacto
+
+
+💼 LinkedIn
+📧 belarmino.s.bs@gmail.com
