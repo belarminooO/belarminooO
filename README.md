@@ -20,7 +20,7 @@ Estou disponível para expandir a minha rede de contactos, trocar conhecimentos 
 
 ---
 
-### Contacto
+### Contactos
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/belarmino-sacate-1b830037b/)
 - 📧 belarmino.s.bs@gmail.com
