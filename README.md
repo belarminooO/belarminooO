@@ -12,7 +12,7 @@ Estou disponível para expandir a minha rede de contactos, trocar conhecimentos 
 
 ### Ferramentas & Tecnologias
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,firebase,php,java,python,mysql,git, c#" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,firebase,php,java,python,mysql,git,c#" />
 
 ---
 
