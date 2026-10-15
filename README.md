@@ -16,7 +16,7 @@ Estou disponível para expandir a minha rede de contactos, trocar conhecimentos 
 
 ---
 
-### Contacto
+### Contactos
 
 <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> [LinkedIn Profile](https://www.linkedin.com/in/belarmino-sacate-1b830037b/)
 
